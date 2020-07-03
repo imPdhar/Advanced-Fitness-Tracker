@@ -21,7 +21,7 @@ This was the Machine Learning code that was designed for Advanced fitness purpos
 
   - csv included  		
 
-- Sklearn- `pip install numpy`
+- Sklearn- `pip install scikit-learn`
 
 - Numpy- `pip install numpy`
 
