@@ -2,7 +2,7 @@
 
 This was the Machine Learning code that was designed for Advanced fitness purposes in Smart India Hackathon- Hardware Edition.
 
-**Hardware Used-** Raspberry Pi 0w with custom charging circuit, BMP180(Pressure Sensor) and MPU6050(Gyro Sensor)
+**Hardware Used-** Raspberry Pi 0w with custom charging circuit, BMP180(Pressure Sensor) and MPU9250(Gyro Sensor)
 
 **Software Implemented**- Adobe XD to implement the potential Social-App for activity and 'Friends' feature and Spyder to code.
 
