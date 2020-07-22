@@ -46,6 +46,6 @@ Complete analysis by Ashutosh Pandey can be viewed [here.](https://github.com/im
 
 2. Inaccurate detection if the active-time is lesser than required i.e 30s.             
 
-​        **Solution**: Workout/Acquire data for more than 30s. 
+   **Solution**: Workout/Acquire data for more than 30s. 
 
 **Note:** Evaluation Data for different workouts are saved with their respective names for testing.
