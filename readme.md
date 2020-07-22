@@ -36,7 +36,7 @@ Complete analysis by Ashutosh Pandey can be viewed [here.](https://github.com/im
 
 -  Install the requirements.
   1. Fill up the body-movement data in ***<u>ExerciseClassifier.csv</u>*** and save it in the directory of the file ***<u>FitnessXpertProgram.py</u>*** (Mind the Path of the csv file).
-  2. Run the code to get counts and 
+  2. Run the code to get counts and detect exercises. 
 
 ## Errors
 
