@@ -1,11 +1,10 @@
 # Advanced Fitness Tracker
 
-This was the Machine Learning code that was designed for Advanced fitness purposes in Smart India Hackathon- Hardware Edition.
-Complete analysis by Ashutosh Pandey can be viewed [here.](https://github.com/imPdhar/Advanced-Fitness-Tracker/blob/master/SmartIndiaHackathon.pdf) 
+This was the Machine Learning code that was designed for Advanced fitness purposes.
 
-**Hardware Used-** Raspberry Pi 0w with custom charging circuit, BMP180(Pressure Sensor) and MPU9250(Gyro Sensor)
+**Hardware-** Raspberry Pi 0w with custom charging circuit, BMP180(Pressure Sensor) and MPU9250(Gyro Sensor)
 
-**Software Implemented**- Adobe XD to implement the potential Social-App for activity and 'Friends' feature and Spyder to code.
+**Tech stack-** Python 3.x, Sklearn, Scipy, Numpy, and Pandas.
 
 ## Features 
 
@@ -26,7 +25,7 @@ Complete analysis by Ashutosh Pandey can be viewed [here.](https://github.com/im
 
 - Numpy- `pip install numpy`
 
-- Matplotlib.pyplot- `pip install matplotlib`
+- Matplotlib.pyplot(Optional)- `pip install matplotlib`
 
 - scipy.signal- `pip install scipy`
 
