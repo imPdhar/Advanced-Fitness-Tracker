@@ -10,7 +10,7 @@ Contributions to this project are [released](https://help.github.com/articles/gi
 ## Opening an issue
 
 Thank you for taking the time to open an issue, your feedback helps make Hacktoberfest better.
-Before opening an issue, please be sure that your issue hasn't already been asked by using [GitHub search](https://help.github.com/articles/searching-issues/)
+Before opening an issue, please be sure that your issue hasn't already been asked by using [GitHub search](https://help.github.com/articles/searching-issues/) and check out the issue template before submitting it.
 
 Here are a few things that will help us help resolve your issues:
 
@@ -25,6 +25,7 @@ Here are a few things that will help us help resolve your issues:
 0. Configure and install the dependencies: (See the [README](readme.md) for more details)
 0. Create a new branch: `git checkout -b my-branch-name`
 0. Make your change, add tests, and make sure nothing breaks
+0. Make sure to check out and use the [PR template](https://github.com/imPdhar/Advanced-Fitness-Tracker/blob/master/.github/PR_TEMPLATE.md)
 0. Push to your branch and [submit a pull request][pr]
 0. Wait for your pull request to be reviewed and merged!
 
