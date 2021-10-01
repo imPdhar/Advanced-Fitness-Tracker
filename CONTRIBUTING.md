@@ -1,6 +1,6 @@
 ## Contributing
 
-[pr]: https://github.com/raise-dev/hacktoberfest/compare
+[pr]: https://github.com/imPdhar/Advanced-Fitness-Tracker/pulls
 [style]: https://github.com/bbatsov/ruby-style-guide
 
 Hi there! We're thrilled that you'd like to contribute to Hacktoberfest. Your help is essential for keeping it great.
@@ -16,16 +16,15 @@ Here are a few things that will help us help resolve your issues:
 
 - A descriptive title that gives an idea of what your issue refers to
 - A thorough description of the issue, (one word descriptions are very hard to understand)
-- Screenshots (if appropriate)
+- Screenshots/Videos
 - Links (if appropriate)
 
 ## Submitting a pull request
 
 0. Clone the repository
-0. Configure and install the dependencies: (See the [README](README.md) for more details)
-0. Make sure the tests pass on your machine: `script/test`
+0. Configure and install the dependencies: (See the [README](readme.md) for more details)
 0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change, add tests, and make sure the tests still pass
+0. Make your change, add tests, and make sure nothing breaks
 0. Push to your branch and [submit a pull request][pr]
 0. Wait for your pull request to be reviewed and merged!
 
@@ -44,7 +43,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 
 ## To Contribute:
 
-- Create an issue
+- Create an issue(See the [issue template](.github/issue_template.md) for more details)
 - Get it assigned
 - Start working after it is assigned
 - Create a PR for 'hacktoberfest' branch and mention the issue number with '#'
