@@ -1,6 +1,6 @@
 ## Contributing
 
-[pr]: https://github.com/imPdhar/Advanced-Fitness-Tracker/pulls
+[pr]: https://github.com/imPdhar/Advanced-Fitness-Tracker/compare
 [style]: https://github.com/bbatsov/ruby-style-guide
 
 Hi there! We're thrilled that you'd like to contribute to Hacktoberfest. Your help is essential for keeping it great.
